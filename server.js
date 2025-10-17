@@ -1,4 +1,3 @@
-// index.js
 const express = require('express');
 const dotenv = require('dotenv');
 
@@ -12,7 +11,7 @@ app.use((req, res, next) => {
 });
 
 app.get('/', (req, res) => {
-  res.send('Hello, MERN!');
+  res.send('Hello world!');
 });
 
 const PORT = process.env.PORT || 3000;
