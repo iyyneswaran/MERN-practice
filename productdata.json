@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Apple",
+        "category": "Fruit",
+        "image": "apple"
+    },
+    {
+        "name": "Banana",
+        "category": "Fruit",
+        "image": "banana"
+    },
+    {
+        "name": "Carrot",
+        "category": "Vegetable",
+        "image": "carrot"
+    },
+    {
+        "name": "Tomato",
+        "category": "Vegetable",
+        "image": "tomato"
+    },
+    {
+        "name": "Milk",
+        "category": "Dairy",
+        "image": "milk"
+    },
+    {
+        "name": "Cheese",
+        "category": "Dairy",
+        "image": "cheese"
+    },
+    {
+        "name": "Chicken",
+        "category": "Meat",
+        "image": "chicken"
+    },
+    {
+        "name": "Fish",
+        "category": "Meat",
+        "image": "fish"
+    }
+]
