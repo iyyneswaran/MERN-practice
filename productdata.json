@@ -2,7 +2,7 @@
     {
         "name": "Apple",
         "category": "Fruit",
-        "image": "apple"
+        "image": "../../frontend/src/assets/SearchFilterAssets/apple.jpg"
     },
     {
         "name": "Banana",

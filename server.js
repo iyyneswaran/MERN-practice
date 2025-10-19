@@ -12,7 +12,7 @@ app.use((req, res, next) => {
 });
 
 app.get('/', (req, res) => {
-  res.send('Hello world!');
+  res.send('<div> <h1> Iyyneswaran </h1> <p> Im a stupid developer </p> </div>');
 });
 
 const PORT = process.env.PORT || 3000;
@@ -22,7 +22,7 @@ app.listen(PORT, () => {
 
 const connectDatabase = () => {
   mongoose.connect(process.env.MONGO_URL).then((con) => {
-    console.log('✅ MongoDB connected' + con.connection.host);
+    console.log('✅ MongoDB connected ' + con.connection.host);
   })
 };
 
